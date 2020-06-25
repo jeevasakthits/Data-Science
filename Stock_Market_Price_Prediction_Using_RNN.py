@@ -147,3 +147,4 @@ plt.show()
 
 
 #I created Dynamic Stock Market Price Prediction Web App using Flask https://www.linkedin.com/feed/update/urn:li:activity:6676910874441211904/     Demo Video
+# Next stage I planned to predict stock prices using RNN+Sentiment_Analysis will give better result
